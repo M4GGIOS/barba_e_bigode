@@ -20,7 +20,7 @@ and open the template in the editor.
        <!-- Inclusao do cabeçalho/topo que é padrão em todos as páginas do site -->
         <?php include 'cabecalho.php'; ?>
 
-
+<h1>Oi, aqui é Regilan!</h1>
         <div id="body">
             <div id="featured">
                 <img src="images/the-beacon.jpg" alt=""/>
